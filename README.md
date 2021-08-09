@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
    Being a mechanical engineer and changing my domain to data science was really challenging for me but I am proud that I did it and I am still learning new things as one said:        
    ### "The only person who is educated is the one who has learned how to learn and change"
 
-- 📫 How to reach me: Jaladjhamb@gmail.com
+- 📫 How to reach me: Jaladjhamb@gmail.com, https://www.linkedin.com/in/jalad-jhamb-131375119/
 
 - ⚡ Fun fact: I love eating rajma chawal😂 and I love dancing too🤪🕺
 
