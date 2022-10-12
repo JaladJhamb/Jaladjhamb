@@ -6,9 +6,9 @@
 Here are some ideas to get you started:-->
 
 
-🌱 I’m currently learning Data Science and Machine Learning from Grras Institute, Jaipur, Rajasthan, India.
+🌱 I’m currently working as Devops engineer in GIIT solutions, Gurgaon
 
-   Being a mechanical engineer and changing my domain to data science was really challenging for me but I am proud that I did it and I am still learning new things as one said:        
+   Being a mechanical engineer and changing my domain to IT was really challenging for me but I am proud that I did it and I am still learning new things as one said:        
    ### "The only person who is educated is the one who has learned how to learn and change"
 
 - 📫 How to reach me: Jaladjhamb@gmail.com, https://www.linkedin.com/in/jalad-jhamb-131375119/
